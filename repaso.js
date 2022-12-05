@@ -1,17 +1,11 @@
-// console.log('funciona')
 
 let nombre = 'nicolas catriel'
 nombre = 'Nicolás Catriel'
-// console.log( typeof nombre )
-
-
-
-
 const nicolas = {
     nombre: nombre,
     edad: 28,
-    mentor: true,
-    peso: 78,
+    mentor: false,
+    peso: 75,
     peliculasFavoritas: ['misterio', 'policial', 'comedia'],
     club: 'San Lorenzo',
     mascotas: [
